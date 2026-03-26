@@ -189,7 +189,7 @@ Machine Learning CSCI 6364, George Washington University.
 ## 📬 Contact
 
 **Vivek Kommareddy**  
-Machine Learning · CSCI 6364 · George Washington University  
+Machine Learning · George Washington University  
 
 ---
 
